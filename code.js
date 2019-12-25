@@ -85,3 +85,4 @@ function sendEmail(subject, body) {
     subject: subject,
     body: body,
   });
+}
